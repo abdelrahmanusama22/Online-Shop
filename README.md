@@ -39,4 +39,4 @@ This is a dynamic online shopping website designed as part of a graduation proje
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/abdelrahmanusama22/Online-Shop.git>
